@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScoutsApp</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="escolher_string">Selecione a partida:</string>
+    <string name="selectTeam">Selecione o time:</string>
+</resources>
